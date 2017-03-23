@@ -16,11 +16,11 @@ labels:
 - その他
 - ホゲ
 
-### API Reference Documentation
+### APIリファレンス
 
-The [API reference documentation](/api/) provides detailed information about a function or object in Node.js. This documentation indicates what arguments a method accepts, the return value of that method, and what errors may be related to that method. It also indicates which methods are available for different versions of Node.js.
+[ APIリファレンスドキュメント](/api/)では、Node.jsの関数またはオブジェクトに関する詳細情報を提供しています。このドキュメントは、メソッドが受け入れる引数、そのメソッドの戻り値、およびそのメソッドに関連するエラーを示します。また、Node.jsの異なるバージョンで使用できるメソッドを示します。
 
-This documentation describes the built-in modules provided by Node.js. It does not document modules provided by the community.
+このドキュメントでは Node.js によって提供された組み込みのモジュールについて説明しています。コアに組み込まれていないモジュールは含みません。
 
 
 <div class="highlight-box">
@@ -36,7 +36,7 @@ This documentation describes the built-in modules provided by Node.js. It does n
 </div>
 
 
-### ES6 Features
+### ES6 の機能
 
 [ES6 のセクション](/en/docs/es6/) では、ES6 の3つの機能について説明しており、それぞれの機能ごとのリンクと一緒に Node.js の標準で有効化されているかについて書いてあります。また、リリースされた Node.js のバージョンごとに組み込まれている V8 のバージョンを知るのにも利用することができます。
 
@@ -46,6 +46,6 @@ This documentation describes the built-in modules provided by Node.js. It does n
 
 ### ガイド
 
-Long-form, in-depth articles about Node.js technical features and capabilities.
+Node.jsの技術的特徴と機能についての長い形式の記事。
 
 ![Image of preview](../en/preview.png)
