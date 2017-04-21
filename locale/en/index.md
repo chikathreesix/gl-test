@@ -15,6 +15,7 @@ There are several types of documentation available on this website:
 * Guides
 * Others
 * Hoge
+* List
 
 ### API Reference Documentation
 
