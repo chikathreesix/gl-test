@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: ドキュメンテーション
 layout: docs.hbs
 labels:
   lts: LTS
@@ -24,7 +24,6 @@ labels:
 
 このドキュメントでは Node.js によって提供された組み込みのモジュールについて説明しています。コアに組み込まれていないモジュールは含みません。
 
-
 <div class="highlight-box">
     <h4>以前のバージョンの API リファレンスをお探しですか？</h4>
 
@@ -36,7 +35,6 @@ labels:
         <li><a href="https://nodejs.org/docs/">all versions</a></li>
     </ul>
 </div>
-
 
 ### ES6の機能
 
