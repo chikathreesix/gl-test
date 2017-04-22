@@ -5,7 +5,7 @@ labels:
   lts: LTS
 ---
 
-# About Docs
+# About this documentation
 
 There are several types of documentation available on this website:
 
@@ -15,6 +15,8 @@ There are several types of documentation available on this website:
 * Guides
 * Others
 * Hoge
+* List
+* List2
 
 ### API Reference Documentation
 
