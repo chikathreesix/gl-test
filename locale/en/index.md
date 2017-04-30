@@ -14,7 +14,7 @@ There are several types of documentation available on this website:
 * Frequently asked questions
 * Guides
 * Others
-* Hogee
+* Hoge
 * List
 * List2
 * List3
