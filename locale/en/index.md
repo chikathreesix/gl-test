@@ -12,6 +12,7 @@ There are several types of documentation available on this website:
 * API reference documentation
 * ES6 features
 * Frequently asked questions
+* New list
 * Guides
 * Others
 * Hoge
