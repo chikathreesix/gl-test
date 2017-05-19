@@ -17,6 +17,7 @@ There are several types of documentation available on this website:
 * Others
 * Hoge
 * List
+* List1.2
 * List2
 * List3
 * List4
