@@ -15,6 +15,7 @@ There are several types of documentation available on this website:
 * New list
 * Guides
 * Others
+* List Test
 * Hoge
 * List
 * List1.2
