@@ -48,4 +48,4 @@ Long-form, in-depth articles about Node.js technical features and capabilities.
 
 ![Image of preview](preview.png)
 
-test
+If you have a sharp eye, you may have noticed that, since the result object fields match the name of the field in the query but don't include arguments, you can't directly query for the same field with different arguments. That's why you need aliases - they let you rename the result of a field to anything you want.
